@@ -68,7 +68,7 @@ with DAG(
         },
         "environment_config": {
             "execution_config": {
-                "service_account": "70622048644-compute@developer.gserviceaccount.com",
+                "service_account": "328163977908-compute@developer.gserviceaccount.com",
                 "network_uri": "projects/modular-seeker-446407-f7/global/networks/default",
                 "subnetwork_uri": "projects/modular-seeker-446407-f7/regions/us-central1/subnetworks/default",
             }
